@@ -1,16 +1,30 @@
-## Hi there 👋
-
-<!--
-**GabDomi/GabDomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+    <tr>
+      <td>
+        <img src="download.jpg" alt="Your image" width="50%"/>
+      </td>
+      <td>
+        <h3>Gabriele Dominico</h3>
+        <dl>
+          <dd>
+            /About_Me <br>
+            │<br>
+            ├── /bio:<br>
+            │   ├── brazilian, pt-br + eng.<br>
+            │   ├── systems analysis and development student.<br>
+            │   <br>
+            │<br>
+            ├── /langs:<br>
+            │   ├── java<br>
+            │   ├── C#<br>
+            │   └── C<br>
+            │
+            ├── /learning:<br>
+                ├── python<br>
+                ├── kotlin<br>
+                └── english<br>
+          </dd>
+        </dl>
+      </td>
+    </tr>
+  </table>
