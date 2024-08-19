@@ -13,16 +13,14 @@
             │   ├── brazilian, pt-br + eng.<br>
             │   ├── systems analysis and development student.<br>
             │   <br>
-            │<br>
             ├── /langs:<br>
             │   ├── java<br>
             │   ├── C#<br>
             │   └── C<br>
-            │
             ├── /learning:<br>
-                ├── python<br>
-                ├── kotlin<br>
-                └── english<br>
+            &nbsp;├── python<br>
+            &nbsp;├── kotlin<br>
+            &nbsp;└── english<br>
           </dd>
         </dl>
       </td>
