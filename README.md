@@ -1,3 +1,11 @@
+<style>
+    /* Importando a fonte Fira Code */
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap');
+  
+    table {
+      font-family: 'Fira Code', monospace;
+    }
+</style>    
 <table>
     <tr>
       <td>
