@@ -1,11 +1,4 @@
-<style>
-    /* Importando a fonte Fira Code */
-    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap');
-  
-    table {
-      font-family: 'Fira Code', monospace;
-    }
-</style>    
+ 
 <table>
     <tr>
       <td>
@@ -15,6 +8,7 @@
         <h3>Gabriele Dominico</h3>
         <dl>
           <dd>
+              <code>
             /About_Me <br>
             │<br>
             ├── /bio:<br>
@@ -29,6 +23,7 @@
             &nbsp;&nbsp;├── python<br>
             &nbsp;&nbsp;├── kotlin<br>
             &nbsp;&nbsp;└── english<br>
+              </code>
           </dd>
         </dl>
       </td>
