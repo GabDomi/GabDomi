@@ -8,7 +8,7 @@
         <h3>Gabriele Dominico</h3>
         <dl>
           <dd>
-              <code>
+            <code>
             /About_Me <br>
             │<br>
             ├── /bio:<br>
@@ -20,10 +20,10 @@
             │   ├── C#<br>
             │   └── C<br>
             ├── /learning:<br>
-            &nbsp;&nbsp;├── python<br>
-            &nbsp;&nbsp;├── kotlin<br>
-            &nbsp;&nbsp;└── english<br>
-              </code>
+            &nbsp;&nbsp;&nbsp;&nbsp;├── python<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;├── kotlin<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;└── english<br>
+            </code>
           </dd>
         </dl>
       </td>
