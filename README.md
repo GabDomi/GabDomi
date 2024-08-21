@@ -1,5 +1,5 @@
 <p dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/GabDomi/GabDomi/blob/main/file.jpg"><img src="https://github.com/GabDomi/GabDomi/blob/main/file.jpg" width="500" align="left" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/GabDomi/GabDomi/blob/main/download.jpg"><img src="https://github.com/GabDomi/GabDomi/blob/main/download.jpg" width="300" align="left" style="max-width: 100%;"></a>
 </p> 
 <p dir="auto">
     <samp>
