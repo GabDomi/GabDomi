@@ -7,7 +7,7 @@
             │<br>
             ├── /bio:<br>
             │   ├── brazilian, pt-br + eng.<br>
-            │   ├── systems analysis and development student.<br>
+            │   ├── graduated in Systems Analysis and Development, currently pursuing a postgraduate degree in Java.<br>
             │<br>
             ├── /langs:<br>
             │   ├── java<br>
